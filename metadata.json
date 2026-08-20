@@ -1,0 +1,6 @@
+{
+  "name": "Lens Cloth Finder",
+  "description": "Visual clothing search like Google Lens using SerpApi to find similar fashion items, displaying only thumbnail, source, title, and link.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
